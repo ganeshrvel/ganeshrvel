@@ -1,1 +1,9 @@
-[![Ganesh's Github stats](https://github-readme-stats.vercel.app/api?username=ganeshrvel&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ganesh's Github stats](https://github-readme-stats.vercel.app/api?username=ganeshrvel&count_private=true&show_icons=true)]
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshrvel&langs_count=5)]
+
+
+
+**Credits**
+https://github.com/anuraghazra/github-readme-stats
