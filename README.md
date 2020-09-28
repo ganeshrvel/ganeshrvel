@@ -1,7 +1,7 @@
-[![Ganesh's Github stats](https://github-readme-stats.vercel.app/api?username=ganeshrvel&count_private=true&show_icons=true)]()
+[![Ganesh's Github stats](https://github-readme-stats.vercel.app/api?username=ganeshrvel&count_private=true&show_icons=true)](https://github.com/ganeshrvel)
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshrvel&langs_count=10&layout=compact&hide=html,css)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshrvel&langs_count=10&layout=compact&hide=html,css)](https://github.com/ganeshrvel)
 
 
 
