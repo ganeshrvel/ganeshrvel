@@ -4,12 +4,13 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=ganeshrvel&langs_count=10&layout=compact&hide=html,css,ruby)](https://github.com/ganeshrvel)
 
 
-#### Popular Projects
+#### Featured Projects
 
 [![OpenMTP](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=openmtp)](https://github.com/ganeshrvel/openmtp)
 
+- inputmag.com - There’s finally an alternative to Google’s horrible Android File Transfer app https://www.inputmag.com/guides/theres-finally-an-alternative-to-googles-horrible-android-file-transfer-app
+- XDA Developers - OpenMTP, an Android File Transfer alternative for macOS, gains Samsung device support and a dark theme https://www.xda-developers.com/openmtp-macos-update-samsung-device-support
 
-[![Flutter Mobx Dio Boilerplate](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=flutter_mobx_dio_boilerplate)](https://github.com/ganeshrvel/flutter_mobx_dio_boilerplate)
 
 
 **Credits**
