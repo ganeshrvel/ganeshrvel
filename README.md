@@ -4,7 +4,12 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=ganeshrvel&langs_count=10&layout=compact&hide=html,css,ruby)](https://github.com/ganeshrvel)
 
 
+#### Popular Projects
 
+[![OpenMTP](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=openmtp)](https://github.com/ganeshrvel/openmtp)
+
+
+[![Flutter Mobx Dio Boilerplate](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=flutter_mobx_dio_boilerplate)](https://github.com/ganeshrvel/flutter_mobx_dio_boilerplate)
 
 
 **Credits**
