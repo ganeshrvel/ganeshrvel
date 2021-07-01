@@ -1,7 +1,7 @@
 [![Ganesh's Github stats](https://github-readme-stats.vercel.app/api?username=ganeshrvel&show_icons=true)](https://github.com/ganeshrvel)
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshrvel&langs_count=10&layout=compact&hide=html,css,ruby)](https://github.com/ganeshrvel)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?ucount_private=true&sername=ganeshrvel&langs_count=10&layout=compact&hide=html,css,ruby)](https://github.com/ganeshrvel)
 
 
 
