@@ -1,7 +1,7 @@
 [![Ganesh's Github stats](https://github-readme-stats.vercel.app/api?count_private=true&username=ganeshrvel&show_icons=true)](https://github.com/ganeshrvel)
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=ganeshrvel&langs_count=10&layout=compact&hide=html,css,ruby, scss)](https://github.com/ganeshrvel)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=ganeshrvel&langs_count=10&layout=compact&hide=html,css,ruby,scss)](https://github.com/ganeshrvel)
 
 
 #### Featured Projects
