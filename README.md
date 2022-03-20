@@ -17,13 +17,13 @@
 
 ## Popular Flutter/Dart Projects
 
-### [Flutter Mobx Dio Boilerplate](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=flutter_mobx_dio_boilerplate) [null safe]
+### [Flutter Mobx Dio Boilerplate](https://github.com/ganeshrvel/flutter_mobx_dio_boilerplate) [null safe]
 
 - One of the most popular boilerplates for building Flutter applications
 
 [![Flutter Mobx Dio Boilerplate [null safe]](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=flutter_mobx_dio_boilerplate)](https://github.com/ganeshrvel/flutter_mobx_dio_boilerplate)
 
-### [Squash Archiver [WIP]](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=squash_archiver) [null safe]
+### [Squash Archiver [WIP]](https://github.com/ganeshrvel/squash_archiver) [Desktop App]
 
 - Archiver apps for macOS, Windows and Linux
 - The UI of the App is written in Flutter
@@ -40,7 +40,7 @@
 
 ### [Data Channel](https://github.com/ganeshrvel/pub-data-channel)
 
-- An [utility](https://pub.dev/packages/pub-data-channel) for routing exceptions and data in Dart and Flutter
+- An [utility](https://pub.dev/packages/data_channel) for routing exceptions and data in Dart and Flutter
 - A drop-in replacement for the convensional `try` and `catch` blocks to handle the data
 
 [![Data Channel](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=pub-data-channel)](https://github.com/ganeshrvel/pub-data-channel)
@@ -70,7 +70,7 @@
 - Stop trade after a pre-set number fo retries
 - Increase the gas limits after each attempt
 - Automatically calculate the minimum amount of tokens required to execute a trade, which includes the gas and number of
-  attempts
+  attempts.
 - Snipe a token at the very first moment of an IDO launch via CLI
 
 [![Quant](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=quant-scrubbed)](https://github.com/ganeshrvel/quant-scrubbed)
@@ -80,7 +80,12 @@
 - Mothership module for the RaspberryPi based IOTs
 - The ESP32, ESP8266, Arduino modules communicate with this mothership module
 
-[![Sirius Proxima [WIP]](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-proxima)](https://github.com/ganeshrvel/sirius-proxima)
+[![Sirius Proxima](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-proxima)](https://github.com/ganeshrvel/sirius-proxima)
+
+### [Sirius Alpha [WIP]](https://github.com/ganeshrvel/sirius-alpha)
+- IOT Module for ESP32 based chips
+- Uses the experimental [rust IDF](https://github.com/esp-rs/rust-build) for development
+- Safe, fast and secure
 
 ### [GitHub Release Stats](https://github.com/ganeshrvel/github_release_stats)
 
@@ -92,12 +97,12 @@
 
 ### [go-mtpx](https://github.com/ganeshrvel/go-mtpx)
 
-- A high level wrapper around the [go-mtp](https://github.com/hanwen/go-mtpfs) library
+- A high level wrapper around the [go-mtpfs](https://github.com/hanwen/go-mtpfs) library
 - The core of [OpenMTP](https://github.com/ganeshrvel/openmtp)
 
 [![go-mtpx](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=go-mtpx)](https://github.com/ganeshrvel/go-mtpx)
 
-### [one-archiver](https://github.com/ganeshrvel/one-archiver)
+### [One Archiver](https://github.com/ganeshrvel/one-archiver)
 
 - **All-in-one archiver package for Go**
 - Supports: zip, tar, tar.br (brotli), tar.bz2 (bz2), tar.gz (gzip), tar.lz4 , tar.sz (snappy), tar.xz , tar.zst (zstd),
@@ -128,13 +133,13 @@
 
 ### [electron-root-path](https://github.com/ganeshrvel/npm-electron-root-path)
 
-- An [utility](https://www.npmjs.com/package/npm-electron-root-path) to fetch the root path of an Electron Application
+- An [utility](https://www.npmjs.com/package/electron-root-path) to fetch the root path of an Electron Application
 
 [![npm-electron-root-path](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=npm-electron-root-path)](https://github.com/ganeshrvel/npm-electron-root-path)
 
 ### [electron-main-window](https://github.com/ganeshrvel/npm-electron-main-window)
 
-- An [utility](https://www.npmjs.com/package/npm-electron-main-window) to fetch the main window of an Electron
+- An [utility](https://www.npmjs.com/package/nelectron-main-window) to fetch the main window of an Electron
   Application
 
 [![npm-electron-main-window](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=npm-electron-main-window)](https://github.com/ganeshrvel/npm-electron-main-window)
@@ -161,7 +166,7 @@
 
 ### [Import values from package.json into electron/nodejs application](https://github.com/ganeshrvel/tutorial-electron-nodejs-import-packageinfo)
 
-- How to prevent leaks while importing the `package.json` file into the JS application
+- How to prevent leaks while importing the `package.json` file into a JS application
 
 [![tutorial-electron-nodejs-import-packageinfo](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-nodejs-import-packageinfo)](https://github.com/ganeshrvel/tutorial-electron-nodejs-import-packageinfo)
 
