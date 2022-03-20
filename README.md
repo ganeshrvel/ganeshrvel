@@ -1,6 +1,15 @@
+# Ganesh Rathinavel
+
 [![Ganesh's Github stats](https://github-readme-stats.vercel.app/api?count_private=true&username=ganeshrvel&show_icons=true)](https://github.com/ganeshrvel)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=ganeshrvel&langs_count=10&layout=compact&hide=html,css,ruby,scss)](https://github.com/ganeshrvel)
+
+
+- Over 10 years of experience in building Web, Mobile, Desktop and Server applications
+- Sucker for a good software architecture
+- Involved in Dart, Rust, Go, TypeScript
+- Latest stints involves IOTs, Blockchain, FOSS, Scalability, System Design
+
 
 ## Featured Projects
 
