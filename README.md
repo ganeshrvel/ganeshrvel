@@ -70,7 +70,7 @@
 - Stop trade after a pre-set number fo retries
 - Increase the gas limits after each attempt
 - Automatically calculate the minimum amount of tokens required to execute a trade, which includes the gas and number of
-  attempts.
+  attempts
 - Snipe a token at the very first moment of an IDO launch via CLI
 
 [![Quant](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=quant-scrubbed)](https://github.com/ganeshrvel/quant-scrubbed)
