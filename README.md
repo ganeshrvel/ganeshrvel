@@ -96,6 +96,9 @@
 - Uses the experimental [rust IDF](https://github.com/esp-rs/rust-build) for development
 - Safe, fast and secure
 
+### [Sirius Hydra - Internet Radio](https://github.com/ganeshrvel/sirius-hydra)
+- IOT Module for Raspberry Pi
+
 ### [GitHub Release Stats](https://github.com/ganeshrvel/github_release_stats)
 
 - A simple binary utility to fetch the latest download counts of your GitHub release
