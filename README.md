@@ -101,6 +101,8 @@
 ### [Sirius Hydra - Internet Radio](https://github.com/ganeshrvel/sirius-hydra)
 - IOT Module for Raspberry Pi
 
+[![Sirius Internet Radio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-hydra)](https://github.com/ganeshrvel/sirius-hydra)
+
 ### [GitHub Release Stats](https://github.com/ganeshrvel/github_release_stats)
 
 - A simple binary utility to fetch the latest download counts of your GitHub release
