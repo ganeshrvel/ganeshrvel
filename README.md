@@ -91,7 +91,7 @@
 
 [![Sirius Proxima](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-proxima)](https://github.com/ganeshrvel/sirius-proxima)
 
-### [Sirius Alpha [WIP]](https://github.com/ganeshrvel/sirius-alpha)
+### [Sirius Alpha](https://github.com/ganeshrvel/sirius-alpha)
 - IOT Module for ESP32 based chips
 - Uses the experimental [rust IDF](https://github.com/esp-rs/rust-build) for development
 - Safe, fast and secure
