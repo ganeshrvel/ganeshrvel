@@ -96,6 +96,8 @@
 - Uses the experimental [rust IDF](https://github.com/esp-rs/rust-build) for development
 - Safe, fast and secure
 
+[![Sirius Alpha](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-alpha)](https://github.com/ganeshrvel/sirius-alpha)
+
 ### [Sirius Hydra - Internet Radio](https://github.com/ganeshrvel/sirius-hydra)
 - IOT Module for Raspberry Pi
 
