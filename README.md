@@ -84,6 +84,16 @@
 
 [![Quant](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=quant-scrubbed)](https://github.com/ganeshrvel/quant-scrubbed)
 
+
+### [mtp-rs](https://github.com/ganeshrvel/mtp-rs)
+
+- A comprehensive pure Rust implementation of the Media Transfer Protocol (MTP)
+- Efficient and robust communication with MTP-enabled devices
+- Supports async transfers for faster data transfer
+- Includes cancellation support for improved control
+- Enhanced stability and performance compared to other language implementations
+- Resolves numerous bugs found in MTP implementations in other languages
+
 ### [Sirius Proxima](https://github.com/ganeshrvel/sirius-proxima)
 
 - Mothership module for the RaspberryPi based IOTs
