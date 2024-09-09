@@ -1,7 +1,7 @@
 # Ganesh Rathinavel
 
 <a href="https://github.com/ganeshrvel#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?count_private=true&username=ganeshrvel&show_icons=true&theme=radical#gh-light-mode-only" alt="Ganesh's GitHub stats - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api?count_private=true&username=ganeshrvel&show_icons=true&theme=default#gh-light-mode-only" alt="Ganesh's GitHub stats - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel#gh-dark-mode-only">
@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/ganeshrvel#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=ganeshrvel&langs_count=10&layout=compact&hide=html,css,ruby,scss&theme=radical#gh-light-mode-only" alt="Top Languages - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=ganeshrvel&langs_count=10&layout=compact&hide=html,css,ruby,scss&theme=default#gh-light-mode-only" alt="Top Languages - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel#gh-dark-mode-only">
@@ -35,7 +35,7 @@ OpenMTP is a revolutionary, free Android File Transfer solution for macOS that h
 - Built with JavaScript, Go, and C++
 
 <a href="https://github.com/ganeshrvel/openmtp#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=openmtp&theme=radical#gh-light-mode-only" alt="OpenMTP Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=openmtp&theme=default#gh-light-mode-only" alt="OpenMTP Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/openmtp#gh-dark-mode-only">
@@ -63,7 +63,7 @@ Key Features:
 Perfect for traders seeking a powerful, automated solution for blockchain markets.
 
 <a href="https://github.com/ganeshrvel/quant-scrubbed#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=quant-scrubbed&theme=radical#gh-light-mode-only" alt="Quant Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=quant-scrubbed&theme=default#gh-light-mode-only" alt="Quant Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/quant-scrubbed#gh-dark-mode-only">
@@ -94,7 +94,7 @@ Key Features:
 Ideal for IoT enthusiasts and home automation experts seeking a powerful, customizable solution for their smart environments.
 
 <a href="https://github.com/ganeshrvel/sirius-proxima#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-proxima&theme=radical#gh-light-mode-only" alt="Sirius Proxima Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-proxima&theme=default#gh-light-mode-only" alt="Sirius Proxima Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/sirius-proxima#gh-dark-mode-only">
@@ -115,7 +115,7 @@ Key Features:
 Perfect for IoT developers and enthusiasts seeking a robust, high-performance solution for ESP32-based projects.
 
 <a href="https://github.com/ganeshrvel/sirius-alpha#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-alpha&theme=radical#gh-light-mode-only" alt="Sirius Alpha Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-alpha&theme=default#gh-light-mode-only" alt="Sirius Alpha Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/sirius-alpha#gh-dark-mode-only">
@@ -131,7 +131,7 @@ Key Features:
 - Perfect for DIY enthusiasts and IoT developers seeking a reliable radio solution
 
 <a href="https://github.com/ganeshrvel/sirius-hydra#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-hydra&theme=radical#gh-light-mode-only" alt="Sirius Hydra Internet Radio Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-hydra&theme=default#gh-light-mode-only" alt="Sirius Hydra Internet Radio Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/sirius-hydra#gh-dark-mode-only">
@@ -143,7 +143,7 @@ Key Features:
 - A simple binary utility to fetch the latest download counts of your GitHub release
 
 <a href="https://github.com/ganeshrvel/github_release_stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=github_release_stats&theme=radical#gh-light-mode-only" alt="GitHub Release Stats Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=github_release_stats&theme=default#gh-light-mode-only" alt="GitHub Release Stats Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/github_release_stats#gh-dark-mode-only">
@@ -164,7 +164,7 @@ Key Features:
 Perfect for Electron developers seeking to implement environment-specific logic or debugging tools.
 
 <a href="https://github.com/ganeshrvel/npm-electron-is-packaged#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=npm-electron-is-packaged&theme=radical#gh-light-mode-only" alt="electron-is-packaged Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=npm-electron-is-packaged&theme=default#gh-light-mode-only" alt="electron-is-packaged Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/npm-electron-is-packaged#gh-dark-mode-only">
@@ -187,7 +187,7 @@ Key Features:
 Indispensable for Electron developers working on applications with dynamic file access needs or complex directory structures.
 
 <a href="https://github.com/ganeshrvel/npm-electron-root-path#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=npm-electron-root-path&theme=radical#gh-light-mode-only" alt="electron-root-path Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=npm-electron-root-path&theme=default#gh-light-mode-only" alt="electron-root-path Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/npm-electron-root-path#gh-dark-mode-only">
@@ -210,7 +210,7 @@ Key Features:
 Essential for Electron developers working on complex applications requiring centralized window control and coordination.
 
 <a href="https://github.com/ganeshrvel/npm-electron-main-window#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=npm-electron-main-window&theme=radical#gh-light-mode-only" alt="electron-main-window Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=npm-electron-main-window&theme=default#gh-light-mode-only" alt="electron-main-window Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/npm-electron-main-window#gh-dark-mode-only">
@@ -237,7 +237,7 @@ Key Features:
 Ideal for developers aiming to build robust, high-performance Electron applications with a modern React and Redux stack.
 
 <a href="https://github.com/ganeshrvel/electron-react-redux-advanced-boilerplate#gh-light-mode-only">
-<img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=electron-react-redux-advanced-boilerplate&theme=radical#gh-light-mode-only" alt="Electron React Redux Advanced Boilerplate Repository - Light Mode" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=electron-react-redux-advanced-boilerplate&theme=default#gh-light-mode-only" alt="Electron React Redux Advanced Boilerplate Repository - Light Mode" />
 </a>
 <a href="https://github.com/ganeshrvel/electron-react-redux-advanced-boilerplate#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=electron-react-redux-advanced-boilerplate&theme=radical#gh-dark-mode-only" alt="Electron React Redux Advanced Boilerplate Repository - Dark Mode" />
@@ -263,7 +263,7 @@ Key Features:
 Perfect for developers and teams looking to jumpstart complex, feature-rich web applications with a robust React and Redux foundation.
 
 <a href="https://github.com/ganeshrvel/react-redux-advanced-web-boilerplate#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=react-redux-advanced-web-boilerplate&theme=radical#gh-light-mode-only" alt="React-Redux Advanced Web Boilerplate Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=react-redux-advanced-web-boilerplate&theme=default#gh-light-mode-only" alt="React-Redux Advanced Web Boilerplate Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/react-redux-advanced-web-boilerplate#gh-dark-mode-only">
@@ -294,7 +294,7 @@ Perfect for developers and teams looking to jumpstart complex, feature-rich web 
 Perfect for developers seeking a feature-rich, scalable foundation for cross-platform native applications.
 
 <a href="https://github.com/ganeshrvel/flutter_mobx_dio_boilerplate#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=flutter_mobx_dio_boilerplate&theme=radical#gh-light-mode-only" alt="Flutter Mobx Dio Boilerplate Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=flutter_mobx_dio_boilerplate&theme=default#gh-light-mode-only" alt="Flutter Mobx Dio Boilerplate Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/flutter_mobx_dio_boilerplate#gh-dark-mode-only">
@@ -311,7 +311,7 @@ A cross-platform archiving solution using Flutter for UI and Go for compression 
 - Seamlessly integrates Flutter/Dart, Go, C, and Foreign Function Interface (FFI) for optimal performance
 
 <a href="https://github.com/ganeshrvel/squash_archiver#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=squash_archiver&theme=radical#gh-light-mode-only" alt="Squash Archiver Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=squash_archiver&theme=default#gh-light-mode-only" alt="Squash Archiver Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/squash_archiver#gh-dark-mode-only">
@@ -329,7 +329,7 @@ A versatile and powerful validation library for both Dart and Flutter, simplifyi
 - Perfect for developers seeking robust, efficient data validation
 
 <a href="https://github.com/ganeshrvel/pub-rules#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=pub-rules&theme=radical#gh-light-mode-only" alt="Rules Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=pub-rules&theme=default#gh-light-mode-only" alt="Rules Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/pub-rules#gh-dark-mode-only">
@@ -348,7 +348,7 @@ Key Features:
 Perfect for developers seeking robust, clean error handling in their Dart and Flutter projects.
 
 <a href="https://github.com/ganeshrvel/pub-data-channel#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=pub-data-channel&theme=radical#gh-light-mode-only" alt="Data Channel Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=pub-data-channel&theme=default#gh-light-mode-only" alt="Data Channel Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/pub-data-channel#gh-dark-mode-only">
@@ -370,7 +370,7 @@ Key Features:
 Essential tool for Flutter and Dart developers looking to boost productivity and maintain code consistency.
 
 <a href="https://github.com/ganeshrvel/pub-scaff#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=pub-scaff&theme=radical#gh-light-mode-only" alt="Scaffold Generator Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=pub-scaff&theme=default#gh-light-mode-only" alt="Scaffold Generator Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/pub-scaff#gh-dark-mode-only">
@@ -394,7 +394,7 @@ Key Features:
 Perfect for projects requiring efficient and reliable MTP communication, especially on macOS and Linux systems.
 
 <a href="https://github.com/ganeshrvel/go-mtpx#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=go-mtpx&theme=radical#gh-light-mode-only" alt="go-mtpx Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=go-mtpx&theme=default#gh-light-mode-only" alt="go-mtpx Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/go-mtpx#gh-dark-mode-only">
@@ -427,7 +427,7 @@ Key Features:
 Ideal for developers seeking a powerful, versatile archiving solution in Go.
 
 <a href="https://github.com/ganeshrvel/one-archiver#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=one-archiver&theme=radical#gh-light-mode-only" alt="One Archiver Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=one-archiver&theme=default#gh-light-mode-only" alt="One Archiver Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/one-archiver#gh-dark-mode-only">
@@ -442,7 +442,7 @@ Practical guides for advanced Electron and Node.js development techniques.
 Learn how to safely import `package.json` data into your JavaScript applications, preventing potential security leaks.
 
 <a href="https://github.com/ganeshrvel/tutorial-electron-nodejs-import-packageinfo#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-nodejs-import-packageinfo&theme=radical#gh-light-mode-only" alt="Secure Package.json Import Tutorial Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-nodejs-import-packageinfo&theme=default#gh-light-mode-only" alt="Secure Package.json Import Tutorial Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/tutorial-electron-nodejs-import-packageinfo#gh-dark-mode-only">
@@ -453,7 +453,7 @@ Learn how to safely import `package.json` data into your JavaScript applications
 Master the art of packaging pre-compiled native files alongside your Electron applications for enhanced functionality.
 
 <a href="https://github.com/ganeshrvel/tutorial-electron-bundle-binaries#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-bundle-binaries&theme=radical#gh-light-mode-only" alt="Bundling Precompiled Binaries Tutorial Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-bundle-binaries&theme=default#gh-light-mode-only" alt="Bundling Precompiled Binaries Tutorial Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/tutorial-electron-bundle-binaries#gh-dark-mode-only">
@@ -464,7 +464,7 @@ Master the art of packaging pre-compiled native files alongside your Electron ap
 Discover the best practices for invoking Electron windows and preventing duplicate instances across different processes.
 
 <a href="https://github.com/ganeshrvel/tutorial-electron-window-switching#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-window-switching&theme=radical#gh-light-mode-only" alt="Efficient Window Management Tutorial Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-window-switching&theme=default#gh-light-mode-only" alt="Efficient Window Management Tutorial Repository - Light Mode" />
 </a>
 <a href="https://github.com/ganeshrvel/tutorial-electron-window-switching#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-window-switching&theme=radical#gh-dark-mode-only" alt="Efficient Window Management Tutorial Repository - Dark Mode" />
@@ -474,7 +474,7 @@ Discover the best practices for invoking Electron windows and preventing duplica
 Learn the correct approach to configuring the AfterPack Builder in your Electron applications for optimized builds.
 
 <a href="https://github.com/ganeshrvel/tutorial-electron-afterpack-script#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-afterpack-script&theme=radical#gh-light-mode-only" alt="Mastering Electron Builder's AfterPack Configuration Tutorial Repository - Light Mode" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-afterpack-script&theme=default#gh-light-mode-only" alt="Mastering Electron Builder's AfterPack Configuration Tutorial Repository - Light Mode" />
 </a>
 
 <a href="https://github.com/ganeshrvel/tutorial-electron-afterpack-script#gh-dark-mode-only">
