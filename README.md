@@ -1,8 +1,8 @@
 # Ganesh Rathinavel
 
-[![Ganesh's Github stats](https://github-readme-stats.vercel.app/api?count_private=true&username=ganeshrvel&show_icons=true&theme=transparent)](https://github.com/ganeshrvel)
+[![Ganesh's Github stats](https://github-readme-stats.vercel.app/api?count_private=true&username=ganeshrvel&show_icons=true&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=ganeshrvel&langs_count=10&layout=compact&hide=html,css,ruby,scss&theme=transparent)](https://github.com/ganeshrvel)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=ganeshrvel&langs_count=10&layout=compact&hide=html,css,ruby,scss&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel)
 
 ## About Me
 
@@ -22,7 +22,7 @@ OpenMTP is a revolutionary, free Android File Transfer solution for macOS that h
   "OpenMTP, an Android File Transfer alternative for macOS, gains Samsung device support and a dark theme"
 - Built with JavaScript, Go, and C++
 
-[![OpenMTP](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=openmtp&theme=transparent)](https://github.com/ganeshrvel/openmtp)
+[![OpenMTP](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=openmtp&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/openmtp)
 
 ## 🦀 Rust Projects
 
@@ -44,7 +44,7 @@ Key Features:
 
 Perfect for traders seeking a powerful, automated solution for blockchain markets.
 
-[![Quant](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=quant-scrubbed&theme=transparent)](https://github.com/ganeshrvel/quant-scrubbed)
+[![Quant](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=quant-scrubbed&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/quant-scrubbed)
 
 ### [mtp-rs](https://github.com/ganeshrvel/mtp-rs)
 
@@ -69,7 +69,7 @@ Key Features:
 
 Ideal for IoT enthusiasts and home automation experts seeking a powerful, customizable solution for their smart environments.
 
-[![Sirius Proxima](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-proxima&theme=transparent)](https://github.com/ganeshrvel/sirius-proxima)
+[![Sirius Proxima](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-proxima&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/sirius-proxima)
 
 ### [Sirius Alpha](https://github.com/ganeshrvel/sirius-alpha)
 
@@ -84,7 +84,7 @@ Key Features:
 
 Perfect for IoT developers and enthusiasts seeking a robust, high-performance solution for ESP32-based projects.
 
-[![Sirius Alpha](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-alpha&theme=transparent)](https://github.com/ganeshrvel/sirius-alpha)
+[![Sirius Alpha](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-alpha&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/sirius-alpha)
 
 ### [Sirius Hydra - Internet Radio](https://github.com/ganeshrvel/sirius-hydra)
 
@@ -94,13 +94,13 @@ Key Features:
 - Seamless streaming experience with built-in resilience mechanisms
 - Perfect for DIY enthusiasts and IoT developers seeking a reliable radio solution
 
-[![Sirius Hydra Internet Radio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-hydra&theme=transparent)](https://github.com/ganeshrvel/sirius-hydra)
+[![Sirius Hydra Internet Radio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=sirius-hydra&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/sirius-hydra)
 
 ### [GitHub Release Stats](https://github.com/ganeshrvel/github_release_stats)
 
 - A simple binary utility to fetch the latest download counts of your GitHub release
 
-[![GitHub Release Stats](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=github_release_stats&theme=transparent)](https://github.com/ganeshrvel/github_release_stats)
+[![GitHub Release Stats](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=github_release_stats&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/github_release_stats)
 
 ## Popular React.js/Electron.Js/Node.js Projects
 
@@ -115,7 +115,7 @@ Key Features:
 
 Perfect for Electron developers seeking to implement environment-specific logic or debugging tools.
 
-[![electron-is-packaged](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=npm-electron-is-packaged&theme=transparent)](https://github.com/ganeshrvel/npm-electron-is-packaged)
+[![electron-is-packaged](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=npm-electron-is-packaged&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/npm-electron-is-packaged)
 
 [View on npmjs.com](https://www.npmjs.com/package/electron-is-packaged)
 
@@ -132,7 +132,7 @@ Key Features:
 
 Indispensable for Electron developers working on applications with dynamic file access needs or complex directory structures.
 
-[![electron-root-path](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=npm-electron-root-path&theme=transparent)](https://github.com/ganeshrvel/npm-electron-root-path)
+[![electron-root-path](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=npm-electron-root-path&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/npm-electron-root-path)
 
 [View on npmjs.com](https://www.npmjs.com/package/electron-root-path)
 
@@ -149,7 +149,7 @@ Key Features:
 
 Essential for Electron developers working on complex applications requiring centralized window control and coordination.
 
-[![electron-main-window](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=npm-electron-main-window&theme=transparent)](https://github.com/ganeshrvel/npm-electron-main-window)
+[![electron-main-window](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=npm-electron-main-window&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/npm-electron-main-window)
 
 [View on npmjs.com](https://www.npmjs.com/package/electron-main-window)
 
@@ -170,7 +170,7 @@ Key Features:
 
 Ideal for developers aiming to build robust, high-performance Electron applications with a modern React and Redux stack.
 
-[![Electron React Redux Advanced Boilerplate](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=electron-react-redux-advanced-boilerplate&theme=transparent)](https://github.com/ganeshrvel/electron-react-redux-advanced-boilerplate)
+[![Electron React Redux Advanced Boilerplate](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=electron-react-redux-advanced-boilerplate&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/electron-react-redux-advanced-boilerplate)
 
 ## JavaScript Projects
 
@@ -191,7 +191,7 @@ Key Features:
 
 Perfect for developers and teams looking to jumpstart complex, feature-rich web applications with a robust React and Redux foundation.
 
-[![React-Redux Advanced Web Boilerplate](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=react-redux-advanced-web-boilerplate&theme=transparent)](https://github.com/ganeshrvel/react-redux-advanced-web-boilerplate)
+[![React-Redux Advanced Web Boilerplate](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=react-redux-advanced-web-boilerplate&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/react-redux-advanced-web-boilerplate)
 
 ## Popular Flutter/Dart Projects
 
@@ -216,7 +216,7 @@ Perfect for developers and teams looking to jumpstart complex, feature-rich web 
 
 Perfect for developers seeking a feature-rich, scalable foundation for cross-platform native applications.
 
-[![Flutter Mobx Dio Boilerplate](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=flutter_mobx_dio_boilerplate&theme=transparent)](https://github.com/ganeshrvel/flutter_mobx_dio_boilerplate)
+[![Flutter Mobx Dio Boilerplate](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=flutter_mobx_dio_boilerplate&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/flutter_mobx_dio_boilerplate)
 
 ### [Squash Archiver [WIP]](https://github.com/ganeshrvel/squash_archiver) [Desktop App]
 
@@ -227,7 +227,7 @@ A cross-platform archiving solution using Flutter for UI and Go for compression 
 - Leverages Go for lightning-fast compression and decompression
 - Seamlessly integrates Flutter/Dart, Go, C, and Foreign Function Interface (FFI) for optimal performance
 
-[![Squash Archiver [WIP]](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=squash_archiver&theme=transparent)](https://github.com/ganeshrvel/squash_archiver)
+[![Squash Archiver [WIP]](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=squash_archiver&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/squash_archiver)
 
 ### [Rules](https://github.com/ganeshrvel/pub-rules)
 
@@ -239,7 +239,7 @@ A versatile and powerful validation library for both Dart and Flutter, simplifyi
 - Flutter-friendly and compatible with state management libraries (Mobx example included)
 - Perfect for developers seeking robust, efficient data validation
 
-[![Rules](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=pub-rules&theme=transparent)](https://github.com/ganeshrvel/pub-rules)
+[![Rules](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=pub-rules&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/pub-rules)
 
 ### [Data Channel](https://github.com/ganeshrvel/pub-data-channel)
 
@@ -252,7 +252,7 @@ Key Features:
 
 Perfect for developers seeking robust, clean error handling in their Dart and Flutter projects.
 
-[![Data Channel](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=pub-data-channel&theme=transparent)](https://github.com/ganeshrvel/pub-data-channel)
+[![Data Channel](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=pub-data-channel&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/pub-data-channel)
 
 [View on pub.dev](https://pub.dev/packages/data_channel)
 
@@ -268,7 +268,7 @@ Key Features:
 
 Essential tool for Flutter and Dart developers looking to boost productivity and maintain code consistency.
 
-[![Scaffold Generator](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=pub-scaff&theme=transparent)](https://github.com/ganeshrvel/pub-scaff)
+[![Scaffold Generator](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=pub-scaff&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/pub-scaff)
 
 [View on pub.dev](https://pub.dev/packages/scaff)
 
@@ -286,7 +286,7 @@ Key Features:
 
 Perfect for projects requiring efficient and reliable MTP communication, especially on macOS and Linux systems.
 
-[![go-mtpx](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=go-mtpx&theme=transparent)](https://github.com/ganeshrvel/go-mtpx)
+[![go-mtpx](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=go-mtpx&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/go-mtpx)
 
 ### [One Archiver](https://github.com/ganeshrvel/one-archiver)
 
@@ -313,7 +313,7 @@ Key Features:
 
 Ideal for developers seeking a powerful, versatile archiving solution in Go.
 
-[![one-archiver](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=one-archiver&theme=transparent)](https://github.com/ganeshrvel/one-archiver)
+[![one-archiver](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=one-archiver&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/one-archiver)
 ## Tutorial Series
 
 Practical guides for advanced Electron and Node.js development techniques.
@@ -321,22 +321,22 @@ Practical guides for advanced Electron and Node.js development techniques.
 ### [Secure Package.json Import in Electron/Node.js Apps](https://github.com/ganeshrvel/tutorial-electron-nodejs-import-packageinfo)
 Learn how to safely import `package.json` data into your JavaScript applications, preventing potential security leaks.
 
-[![tutorial-electron-nodejs-import-packageinfo](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-nodejs-import-packageinfo&theme=transparent)](https://github.com/ganeshrvel/tutorial-electron-nodejs-import-packageinfo)
+[![tutorial-electron-nodejs-import-packageinfo](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-nodejs-import-packageinfo&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/tutorial-electron-nodejs-import-packageinfo)
 
 ### [Bundling Precompiled Binaries with Electron Apps](https://github.com/ganeshrvel/tutorial-electron-bundle-binaries)
 Master the art of packaging pre-compiled native files alongside your Electron applications for enhanced functionality.
 
-[![tutorial-electron-bundle-binaries](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-bundle-binaries&theme=transparent)](https://github.com/ganeshrvel/tutorial-electron-bundle-binaries)
+[![tutorial-electron-bundle-binaries](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-bundle-binaries&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/tutorial-electron-bundle-binaries)
 
 ### [Efficient Window Management in Electron Apps](https://github.com/ganeshrvel/tutorial-electron-window-switching)
 Discover the best practices for invoking Electron windows and preventing duplicate instances across different processes.
 
-[![tutorial-electron-window-switching](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-window-switching&theme=transparent)](https://github.com/ganeshrvel/tutorial-electron-window-switching)
+[![tutorial-electron-window-switching](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-window-switching&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/tutorial-electron-window-switching)
 
 ### [Mastering Electron Builder's AfterPack Configuration](https://github.com/ganeshrvel/tutorial-electron-afterpack-script)
 Learn the correct approach to configuring the AfterPack Builder in your Electron applications for optimized builds.
 
-[![tutorial-electron-afterpack-script](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-afterpack-script&theme=transparent)](https://github.com/ganeshrvel/tutorial-electron-afterpack-script)
+[![tutorial-electron-afterpack-script](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=ganeshrvel&repo=tutorial-electron-afterpack-script&theme=radical#gh-light-mode-only)](https://github.com/ganeshrvel/tutorial-electron-afterpack-script)
 
 **Credits**
 - Special thanks to [@anuraghazra](https://github.com/anuraghazra) for the amazing [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) project.
