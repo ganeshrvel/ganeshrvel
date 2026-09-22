@@ -18,7 +18,7 @@
 
 ## About Me
 
-- 10+ years crafting Web, Mobile, Desktop, and Server solutions
+- 12+ years crafting Web, Mobile, Desktop, and Server solutions
 - Sucker for elegant software architecture and scalable system design
 - Involved in React.js, Rust, Flutter/Dart, TypeScript, IOTs and Go
 
